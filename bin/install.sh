@@ -121,7 +121,6 @@ install_dotfiles () {
 }
 
 # Do the magic
-ask_github_api_key
 install_dotfiles
 
 echo ''
